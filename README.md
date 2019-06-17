@@ -1,2 +1,2 @@
 # Data-Manipulation-and-Analysis-with-Python-Pandas
-Data Manipulation and Analysis with Python Pandas on Titanic Dataset.
+During my graduation project, I have dealt with a lot of Data Pre-processing stuff without using any libraries. I have just used if statements and for loops. It literally killed me. After I started to learn Pandas, I decided to write this article to help students and beginners to get start with it. I will do my best to introduce you with Pandas’ some of the most useful capabilities in the stage of Exploratory Data Analysis and data manipulation.
