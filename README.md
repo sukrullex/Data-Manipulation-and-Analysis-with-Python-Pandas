@@ -2,9 +2,9 @@
 During my graduation project, I have dealt with a lot of Data Pre-processing stuff without using any libraries. I was using if statements and loops. It literally killed me. After I started to learn Pandas, I decided to write this repository to help students and beginners to get start with it. I will do my best to introduce you with Pandas’ some of the most useful capabilities. 
 We will focus on:
 
-# -Importing the data-
+## -Importing the data-
 
-# -Displaying first and last n rows
+## -Displaying first and last n rows
 
 # -Reading files with specific columns
 
