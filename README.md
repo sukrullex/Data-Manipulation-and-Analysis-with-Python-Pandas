@@ -1,33 +1,33 @@
 # Data-Manipulation-and-Analysis-with-Python-Pandas
 During my graduation project, I have dealt with a lot of Data Pre-processing stuff without using any libraries. I was using if statements and loops. It literally killed me. After I started to learn Pandas, I decided to write this repository to help students and beginners to get start with it. I will do my best to introduce you with Pandas’ some of the most useful capabilities. 
-We will focus on
+We will focus on:
 
--Importing the data-
+# -Importing the data-
 
--Displaying first and last n rows
+# -Displaying first and last n rows
 
--Reading files with specific columns
+# -Reading files with specific columns
 
--Displaying mean, max, min, 1st and 3rd quartile, counts for each column
+# -Displaying mean, max, min, 1st and 3rd quartile, counts for each column
 
--Displaying the data types of each column
+# -Displaying the data types of each column
 
--Sorting numeric and categorical variables
+# -Sorting numeric and categorical variables
 
--Counting occurences
+# -Counting occurences
 
--Counting unique values
+# -Counting unique values
 
--Changing data type
+# -Changing data type
 
--Filtering with one or more condition with AND and OR
+# -Filtering with one or more condition with AND and OR
 
--Finding null values
+# -Finding null values
 
--How to deal with missing values
+# -How to deal with missing values
 
--Dropping one or more column
+# -Dropping one or more column
 
--Filling missing values
+# -Filling missing values
 
 You can find detailed explanations in notebook.
