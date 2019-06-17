@@ -29,3 +29,5 @@ We will focus on
 -Dropping one or more column
 
 -Filling missing values
+
+You can find detailed explanations in notebook.
